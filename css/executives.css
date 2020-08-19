@@ -1,16 +1,14 @@
-.container {
+.executives {
     position: inherit;
-    width: 50%;
+    width: 100%;
+    display: inline;
   }
   
   .image {
     display: block;
     width: auto;
     height: 200px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 300px;
+    
   }
   
   .overlay {
