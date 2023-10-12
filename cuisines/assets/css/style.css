@@ -13,8 +13,9 @@ body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
 }
-
-a {
+.table1 {
+background: rgba(255,255,255,0.5);
+}a {
   color: #777;
   text-decoration: none;
 }
